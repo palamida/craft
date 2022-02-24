@@ -1,0 +1,41 @@
+field: 3777615c-b066-4fa8-bfc4-a3bee5f06f12 # Sportski rezultat
+fieldLayouts:
+  a9483e64-d236-4ff0-b68e-5b6319fedf6a:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 2f2e8a57-4aa5-400c-b89d-dde95f75cdef # Disciplina
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  2f2e8a57-4aa5-400c-b89d-dde95f75cdef: # Disciplina
+    columnSuffix: itxqmmms
+    contentColumnType: text
+    fieldGroup: null
+    handle: disciplina
+    instructions: ''
+    name: Disciplina
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: disciplina
+name: Disciplina
+sortOrder: 2

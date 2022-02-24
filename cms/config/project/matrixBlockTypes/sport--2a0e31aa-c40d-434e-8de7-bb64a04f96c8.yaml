@@ -1,0 +1,41 @@
+field: 3777615c-b066-4fa8-bfc4-a3bee5f06f12 # Sportski rezultat
+fieldLayouts:
+  c5f18756-3bcb-4495-b043-7118da376df7:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 4f611420-a468-4143-91c0-3b5672602056 # Sport
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  4f611420-a468-4143-91c0-3b5672602056: # Sport
+    columnSuffix: ddoabcci
+    contentColumnType: text
+    fieldGroup: null
+    handle: sport
+    instructions: ''
+    name: Sport
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: sport
+name: Sport
+sortOrder: 1

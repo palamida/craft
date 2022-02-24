@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 94b4d5ac-d7ea-4241-a6cb-92b39f482f99
+handle: sportskiRezultat
+instructions: ''
+name: 'Sportski rezultat'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_sportskirezultat}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
